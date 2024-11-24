@@ -1,0 +1,33 @@
+body {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.settings-container {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 8px 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#status {
+  margin-top: 10px;
+  color: #4CAF50;
+}
